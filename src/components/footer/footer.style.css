@@ -1,0 +1,18 @@
+footer {
+  background: rgb(233, 174, 25);
+  width: 98%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 1rem;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-bottom: 2px solid black;
+}
+
+.footer-title {
+  font-size: 1rem;
+  letter-spacing: 2px;
+  transform: skew(-25deg);
+  text-transform: capitalize;
+  color: rgb(20, 29, 4);
+}
